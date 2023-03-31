@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nurettindogan
-- 👀 I’m interested in image encrytion.
+- 👀 I’m interested in image encryption.
 - 🌱 I’m currently learning deep learning.
 - 💞️ I’m looking to collaborate on image encrytion and deep learning.
 - 📫 You can contact me using my e-mail address nurettin.dogan@selcuk.edu.tr.
